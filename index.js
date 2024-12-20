@@ -1,0 +1,4 @@
+const signupBtn = document.querySelector('.signup-btn');
+signupBtn.addEventListener('click', () => {
+  window.location.href = '(https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3D02316e5c27520370%26rlz%3D1C1CHBD_enNG992NG992%26q%3Dlinks%2Bwith%2Ba%2Bsign%2Bup%2Bpage%26source%3Dlnms%26fbs%3DAEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESKd_0oka9aLy7VkmZpoP843kNAVevDqXFY_DxGDpakB32U8Jx4v_tbpHYaYX4-1vWL5qkJbkTj1GgzDmjLqTKgVowag8ZhkZDwhvb3yDtIRrnVQP4w%26sa%3DX%26ved%3D2ahUKEwjCnsuJobaKAxXuWkEAHS-yE_MQ0pQJegQIExAB%26biw%3D1366%26bih%3D679%26dpr%3D1&ec=GAZAAQ&hl=en&ifkv=AeZLP9_GlLZmlpU3TXgmbs-TtHPB4bBCrvHEGWN8SAK6PfzEtpA9uVNC6ZyMcRpxMXo-jajGYwvAfw&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1949855940%3A1734694649306961&ddm=1)';
+});
