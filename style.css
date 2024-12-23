@@ -340,3 +340,6 @@ form{
     color: black;
     font-size: 35px;
 }
+.fa-facebook, .fa-twitter, .fa-linkedin{
+  color: black;
+}
