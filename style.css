@@ -343,3 +343,7 @@ form{
 .fa-facebook, .fa-twitter, .fa-linkedin{
   color: black;
 }
+.social-links{
+  display: flex;
+  flex-direction: row;
+}
