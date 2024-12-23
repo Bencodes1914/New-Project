@@ -340,11 +340,19 @@ form{
     color: black;
     font-size: 35px;
 }
-.fa-facebook, .fa-twitter, .fa-linkedin{
-  color: black;
-}
 .social-links{
   display: flex;
-  flex-direction: row;
   gap: 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.item {
+  width: calc(33.33% - 20px);
+  margin: 10px;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
 }
