@@ -341,10 +341,11 @@ form{
     font-size: 35px;
 }
 .social-links{
-  gap: 2.5rem;
+  gap: 3rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin: 10px;
 }
 .item {
   margin: 10px;
