@@ -341,10 +341,9 @@ form{
     font-size: 35px;
 }
 .social-links{
-  display: flex;
   gap: 2.5rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
 }
 .item {
