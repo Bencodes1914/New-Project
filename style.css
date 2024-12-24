@@ -259,7 +259,6 @@ form{
 
 .container {
     max-width: 1200px;
-    margin: 0 auto;
     padding: 20px;
 }
 
@@ -284,8 +283,8 @@ form{
     color: black;
 }
 #productPage{
-    margin: 30px;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
     box-sizing: border-box;
 }
 .foot {
