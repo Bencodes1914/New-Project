@@ -283,7 +283,8 @@ form{
     color: black;
 }
 #productPage{
-    box-sizing: border-box;
+    width: 700px;
+    height: fit-content;
 }
 .foot {
     background-color: #333;
