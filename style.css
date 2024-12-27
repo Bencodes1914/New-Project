@@ -4,7 +4,7 @@
     --rebecca: #D3D3D3;
 }
 .checked {
-    color: rgb(141, 141, 8);
+    color: #ffe234;
 }
 #ratings{
     display: flex;
@@ -76,8 +76,8 @@ h2{
     font-size: 17px;
 }
 h3{
-    color: black;
-    font-size: 21px;
+    color: palevioletred;
+    font-size: 15px;
 }
 .feedback1, .feedback2, .feedback3{
     width:300px ;
@@ -112,7 +112,7 @@ p{
 }
 h4{
     font-size: 18px;
-    color: black;
+    color: gray;
     font-family: Arial, Helvetica, sans-serif;
 }
 .origin{
@@ -278,9 +278,6 @@ form{
     color: black;
     font-size: 30px;
     margin-bottom: 10px;
-}
-.feature , p{
-    color: black;
 }
 #productPage{
     width: 700px;
